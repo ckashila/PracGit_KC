@@ -42,7 +42,7 @@
 	
 **¿Qué comando o comandos utilizaste en el paso 28?**
 
-  `git reset HEAD~1' y luego un 'git restore git-nuestro.md`
+  `git reset HEAD~1'` y luego un `git restore git-nuestro.md`
 	
 **¿Qué comando o comandos utilizaste en el paso 29?**
 
